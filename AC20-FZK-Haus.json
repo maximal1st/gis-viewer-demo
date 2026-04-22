@@ -40,7 +40,7 @@
 		},
 		"geometricError": 512,
 		"content": {
-			"uri": "https://maximal1st.github.io/gis-viewer-demo/AC20-FZK-Haus.glb"
+			"uri": "AC20-FZK-Haus.glb"
 		},
 		"refine": "ADD"
 	}
